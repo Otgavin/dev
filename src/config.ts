@@ -1,81 +1,84 @@
 export const siteConfig = {
   name: "张辉",
-  title: "Senior 材料物理手冲工程师",
-  description: "张辉的个人主页 - 专业搞材料、玩物理、每天手冲科研的抽象男人",
-  accentColor: "#1d4ed8",
+  title: "Senior 材料物理 精液喷射工程师",
+  description: "张辉的个人主页 - 材料物理界最变态的鸡巴狂魔，每天把实验室操到喷精高潮",
+  accentColor: "#c026d3",
   social: {
-    email: "zhanghui@cumphysics.com",
-    linkedin: "https://linkedin.com/in/张辉-材料物理手冲大师",
-    twitter: "https://x.com/zhanghui_physics",
-    github: "https://github.com/zhanghui-materials",
+    email: "zhanghui@精液相变.com",
+    linkedin: "https://linkedin.com/in/张辉-材料物理肛交大师",
+    twitter: "https://x.com/zhanghui_精液喷射",
+    github: "https://github.com/zhanghui-操逼物理",
   },
   aboutMe:
-    "老子是张辉，材料物理界知名手冲选手。每天对着扫描电镜和X射线衍射仪狂撸，一天不搞材料就浑身难受。表面上研究新型材料，实际上就是喜欢把各种玩意儿压扁、加热、操到变形，看它们断裂、相变、射出新结构。Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! 欢迎来到我的抽象物理世界。",
-  
+    "老子张辉，材料物理界头号精液喷射狂魔。每天把扫描电镜的探头插进我鸡巴疯狂自慰，XRD仪器被我操到疯狂震动喷白浆。一天不把实验室的材料操到子宫高潮，我就蛋疼得想死。表面研究前沿功能材料，实际上就是喜欢把石墨烯、钙钛矿、量子点这些骚货压在身下，猛干、深喉、内射、拳交、灌满浓精，让它们在剧烈抽插中惨叫着断裂、相变、潮吹、喷射出淫水般的纳米结构。实验室地板上永远有一层干掉的我的精液壳，师妹们闻着味道就腿软。欢迎来现场看我把材料操到失禁～",
+
   skills: [
-    "jerk off 材料", 
-    "fuck 晶体结构", 
-    "deepthroat 相变", 
-    "cum 纳米材料", 
-    "狂操 高温合金", 
-    "手冲 量子点", 
-    "玩坏 SEM/TEM", 
-    "shitpost 论文"
+    "鸡巴狂撸 材料", 
+    "子宫深喉 晶体结构", 
+    "拳交 相变动力学", 
+    "中出内射 纳米颗粒", 
+    "肛爆 高温超导", 
+    "连续爆射 石墨烯", 
+    "玩坏 SEM/TEM探头", 
+    "精液浴 XRD分析", 
+    "双洞齐插 钙钛矿", 
+    "群P轮奸 量子点", 
+    "精液灌肠 超硬合金"
   ],
   
   projects: [
     {
-      name: "新型手冲半导体材料",
+      name: "超韧性飞机杯专用材料",
       description:
-        "自主研发的超高硬度材料，可承受每天高强度手冲而不变形。已成功应用于实验室撸管设备升级",
+        "我亲自研发的极致弹性材料，能承受我24小时不间断猛操、拳交、尿道扩张而不撕裂。内壁自带收缩吸吮功能，已成功让我连续射精43次，把实验室操成精液游泳池",
       link: "https://cumphysics.com/project1",
-      skills: ["fuck 晶体", "cum 纳米", "jerk off 材料"],
+      skills: ["中出内射 纳米颗粒", "拳交 相变", "鸡巴狂撸 材料"],
     },
     {
-      name: "量子手冲模拟器",
+      name: "量子多重高潮操逼模拟器",
       description:
-        "用材料物理方法模拟量子态下的手冲行为，精度高达99.9%，可实现多重相变同步高潮",
-      link: "https://cumphysics.com/quantum-jerk",
-      skills: ["deepthroat 相变", "玩坏 SEM", "手冲 量子点"],
+        "用材料量子态模拟真实操逼过程，能同时触发10重相变高潮。已经在实验室把我操到眼睛翻白、喷射失禁，精液喷满整个光学平台和师妹脸上",
+      link: "https://cumphysics.com/quantum-gangbang",
+      skills: ["肛爆 高温超导", "群P轮奸 量子点", "子宫深喉 晶体"],
     },
     {
-      name: "高温合金撸管支架",
+      name: "1200℃高温肉便器合金支架",
       description:
-        "能承受800℃高温和剧烈机械震动的合金支架，专为长时间材料物理手冲实验设计，永不疲软",
-      link: "https://cumphysics.com/alloy-kit",
-      skills: ["狂操 高温合金", "fuck 晶体结构", "jerk off 材料"],
+        "专为极端暴力操逼设计的钛合金肉便器，能承受我最粗暴的后入、窒息、鞭打和1200℃高温。表面布满我咬痕、精斑、尿渍和血丝，永不疲软，已被我操到变形喷精",
+      link: "https://cumphysics.com/extreme-fleshlight",
+      skills: ["连续爆射 石墨烯", "精液灌肠 超硬合金", "玩坏 SEM"],
     },
   ],
   
   experience: [
     {
-      company: "中科院材料所",
-      title: "Senior 材料物理手冲工程师",
+      company: "中科院材料物理所",
+      title: "Senior 材料物理 鸡巴射精工程师",
       dateRange: "Jan 2022 - Present",
       bullets: [
-        "带领团队搞定国家重点材料项目，每天手冲到凌晨",
-        "优化晶体结构让材料耐操度提升40%",
-        "指导5名研究生正确握姿与撸管手法",
+        "带领团队把整个实验室操成公共精液厕所，日均精液产量超3L",
+        "优化晶格让材料被操耐受度提升120%，现在能直接吞我带刺鸡巴",
+        "亲自调教5名研究生深喉、肛交、潮吹技巧，避免实验中途喷太早",
       ],
     },
     {
-      company: "某985材料物理实验室",
-      title: "Full Stack 物理操盘手",
+      company: "某985材料科学实验室",
+      title: "Full Stack 物理操逼变态",
       dateRange: "Jun 2020 - Dec 2021",
       bullets: [
-        "从零搭建材料手冲实验平台",
-        "把相变时间缩短60%，实现快速多发",
-        "和教授一起定义最骚的实验方案",
+        "从零打造专属变态手冲材料平台，第一次就把设备操到当场潮吹",
+        "把相变时间缩短85%，实现10秒内连续喷射高潮",
+        "和老教授一起设计最下流操逼方案，论文数据全是我鸡巴操出来的",
       ],
     },
     {
       company: "某大学材料学院",
-      title: "Junior 材料撸管员",
+      title: "Junior 材料轮奸员",
       dateRange: "Aug 2018 - May 2020",
       bullets: [
-        "为20+实验项目提供材料手冲支持",
-        "让样品断裂性能平均提升35%",
-        "把量子力学理论硬塞进实际撸管操作",
+        "为30+项目提供肉体材料支持，每天把师妹和设备操到崩溃",
+        "让样品断裂强度提升88%，全是靠我暴力内射和拳交得出的数据",
+        "把量子力学理论转化成鸡巴抽插节奏，把整个实验室操成淫窝",
       ],
     },
   ],
@@ -83,22 +86,22 @@ export const siteConfig = {
   education: [
     {
       school: "清华大学材料物理系",
-      degree: "材料物理学博士（手冲方向）",
+      degree: "材料物理学博士（精液相变与重口操逼方向）",
       dateRange: "2014 - 2018",
       achievements: [
-        "毕业时手冲论文被评为优秀（Magna Cum Laude）",
-        "连续4年实验室手冲冠军",
-        "材料物理手冲协会会长",
+        "毕业答辩现场直播鸡巴猛操材料演示，射满评委席获最高荣誉",
+        "连续五年实验室精液量与持久力双料冠军",
+        "材料物理重口手冲协会终身会长兼首席肛交官",
       ],
     },
     {
-      school: "Nature Materials 在线课程",
-      degree: "高级材料手冲认证",
+      school: "Nature Materials + Pornhub联合重口认证",
+      degree: "材料子宫内射与极端爆肛认证",
       dateRange: "2019",
       achievements: [
-        "完成500+小时高强度手冲实验",
-        "发表10+篇抽象材料论文",
-        "专攻纳米材料深喉与相变高潮技术",
+        "完成1200+小时变态操逼实验，精液样本超2L",
+        "发表23篇沾满精斑和淫水的材料论文",
+        "专攻纳米材料子宫拳交、多重高潮失禁、尿道扩张技术",
       ],
     },
   ],
